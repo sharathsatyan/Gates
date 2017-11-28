@@ -1,0 +1,15 @@
+C:/Users/srs16g/Documents/Modelsim/Gates/One_bit/ANDGate/ANDGate.v {1 {vlog -work work -stats=none {C:\Users\srs16g\Documents\Modelsim\Gates\One_bit\ANDGate\ANDGate.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ANDGate
+
+Top level modules:
+	ANDGate
+
+} {} {}} C:/Users/srs16g/Documents/Modelsim/Gates/One_bit/ANDGate/ANDGate_TB.v {1 {vlog -work work -stats=none C:/Users/srs16g/Documents/Modelsim/Gates/One_bit/ANDGate/ANDGate_TB.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ANDGate_tb
+
+Top level modules:
+	ANDGate_tb
+
+} {} {}}
